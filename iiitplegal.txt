@@ -1,0 +1,11 @@
+PortalID        Password       Department             PAN
+iiitp_cse_01    Cse@2025!      Computer Science        AZTPK1234L
+iiitp_ee_02     Ee#Secure9     Electrical Engineering  BQWPL5678M
+iiitp_mech_03   Mech@Power7    Mechanical              CNVPK9012T
+iiitp_civil_04  Civil@7890     Civil                   DRTPK3456A
+iiitp_math_05   Math#Pi314     Mathematics             EWTPL7890K
+iiitp_phy_06    Phy@Newton1    Physics                 FGHPK4321Q
+iiitp_chem_07   Chem#2024$     Chemistry               GMTPK6543Z
+iiitp_bio_08    Bio@Life7      Biosciences             HJKPL8765B
+iiitp_admin_09  Admin#Secure   Administration          IJTPL1234X
+iiitp_mgmt_10   Mgmt@2025$     Management              JKTPL5432C

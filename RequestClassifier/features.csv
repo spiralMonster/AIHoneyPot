@@ -1,0 +1,2 @@
+duration,src_bytes,dst_bytes,wrong_fragment,urgent,count,srv_count,protocol_type,service,flag
+0,20000,20000,0,0,1,1000,1,24,5
